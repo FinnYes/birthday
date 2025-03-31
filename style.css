@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  overflow: hidden; /* Предотвращает появление полос прокрутки */
+  background-color: black; /* Черный фон для ночного неба */
+}
+
+canvas {
+  display: block; /* Убирает отступы снизу canvas */
+}
